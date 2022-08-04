@@ -1,0 +1,11 @@
+# node / npm
+node_modules/
+*.log
+.pnpm-debug.log*
+
+# env
+.env
+*.local
+
+#build
+dist
